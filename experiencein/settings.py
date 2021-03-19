@@ -25,7 +25,7 @@ SECRET_KEY = 'b2l6edf)=(%nowx=01yh#gd1=#&a3p3uqng68m9@1u)#20^(!d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://matheusmont.pythonanywhere.com/']
+ALLOWED_HOSTS = ['matheusmont.pythonanywhere.com/']
 
 
 # Application definition
